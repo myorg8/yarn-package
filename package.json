@@ -1,5 +1,5 @@
 {
-  "name": "example-yarn-package",
+  "name": "yarn-package",
   "version": "1.0.0",
   "description": "An example package to demonstrate Yarn",
   "main": "index.js",
